@@ -1,0 +1,5 @@
+Sprint 1 backlog:
+	X		As a user I want to be able to move.
+	X		As a user I want to know where ghosts are.
+	X		As a user I want to be able to kill ghosts.
+	X		As a user I want to be able to keep track of the ghosts I’ve killed.
