@@ -7,3 +7,6 @@ Project backlog:
 Sprint 1:
 1. Splash screen
 2. Implement GPS
+
+- Top-down view
+
