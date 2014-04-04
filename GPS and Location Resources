@@ -2,4 +2,4 @@ Location APIs http://developer.android.com/google/play-services/location.html
 android.location http://developer.android.com/reference/android/location/package-summary.html
 "location strategies http://developer.android.com/guide/topics/location/strategies.html
 
-
+Google Maps sample code: https://github.com/googlemaps
